@@ -12,7 +12,7 @@
 - [Kauã Sousa](https://github.com/kkauaon)
   
 ## Repositório
-Neste repositório, há as soluções dos exercícios resolvidos (25+25) e propostos (5+5) do Capítulo 4 e 5 do livro "Fundamentos da Programação de Computadores".
+Neste repositório, há as soluções dos exercícios resolvidos (25+25) e propostos (5+5) do Capítulo 4 (Estrutura Condicional) e 5 (Estrutura de Repetição) do livro "Fundamentos da Programação de Computadores".
 
 Esses exercícios compõem o Trabalho 02 da disciplina de Programação Orientada a Objeto no semestre 2024.1 com o professor [Roger Sarmento](https://github.com/rogermsarmento)
 
