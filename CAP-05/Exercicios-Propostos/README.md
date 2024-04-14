@@ -2,7 +2,7 @@
 ## Exercícios propostos
 |Questão|Enunciado|
 |-------|---------|
-|1|Faça um programa que mostre as tabuadas dos números de 1 a 10.|
+|5|Faça um programa que mostre as tabuadas dos números de 1 a 10.|
 |17|Foi feita uma pesquisa sobre a audiência de canal de TV em várias casas de uma cidade, em determinado dia. Para cada casa consultada foi fornecido o número do canal (4, 5, 7, 12) e o número de pessoas que estavam assistindo àquele canal. Se a televisão estivesse desligada, nada era anotado, ou seja, essa casa não entrava na pesquisa. Faça um programa que: leia um número indeterminado de dados (número do canal e número de pessoas que estavam assistindo); e calcule e mostre a porcentagem de audiência de cada canal. Para encerrar a entrada de dados, digite o número do canal ZERO.|
 |20|Faça um programa que apresente o menu de opções a seguir. Menu de opções: 1. Média aritmética 2. Média ponderada 3. Sair. Digite a opção desejada. Na opção 1: receber duas notas, calcular e mostrar a média aritmética. Na opção 2: receber três notas e seus respectivos pesos, calcular e mostrar a média ponderada. Na opção 3: sair do programa.|
 |22|Faça um programa que receba a idade e a altura de várias pessoas, calcule e mostre a média das alturas daquelas com mais de 50 anos. Para encerrar a entrada de dados, digite idade menor ou igual a zero.|
